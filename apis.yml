@@ -1,0 +1,97 @@
+aid: beta-technologies
+name: BETA Technologies
+description: >-
+  BETA Technologies is a Vermont-based aerospace company that designs and
+  manufactures all-electric aircraft and the supporting electric aviation
+  charging network. BETA produces two variants of its ALIA platform: ALIA CTOL
+  (conventional take-off and landing) and ALIA VTOL (vertical take-off and
+  landing), each carrying a pilot plus five passengers or equivalent cargo,
+  with demonstrated range of 336 nautical miles and sub-hour recharge. BETA's
+  Charge Cube is an interoperable multimodal charger now deployed at sites
+  across the U.S. covering more than 50 million people within 50 miles, and
+  the company operates a 188,000-square-foot net-zero manufacturing facility
+  in South Burlington, Vermont. Customers include UPS, United Therapeutics,
+  the U.S. Air Force and U.S. Army (via AFWERX Agility Prime), Air New Zealand,
+  Bristow, Surf Air Mobility, and other early operators; BETA was selected for
+  seven of the eight FAA eVTOL Integration Pilot Program initiatives.
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: https://www.beta.team
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.20'
+type: Index
+position: 1
+access: 3rd-Party
+tags:
+  - Advanced Air Mobility
+  - Aerospace
+  - Charging Infrastructure
+  - Defense
+  - eVTOL
+  - eCTOL
+  - Electric Aviation
+  - FAA Certification
+  - Manufacturing
+  - Sustainable Aviation
+apis: []
+common:
+  - url: https://www.beta.team/
+    name: BETA Technologies Website
+    type: Website
+  - url: https://www.beta.team/company/
+    name: About BETA
+    type: About
+  - url: https://www.beta.team/news/
+    name: News
+    type: Blog
+  - url: https://www.beta.team/aircraft/
+    name: Aircraft (ALIA)
+    type: Product
+  - url: https://www.beta.team/aircraft/alia-ctol/
+    name: ALIA CTOL
+    type: Product
+  - url: https://www.beta.team/aircraft/alia-vtol/
+    name: ALIA VTOL
+    type: Product
+  - url: https://www.beta.team/charge/
+    name: Charge Network (Charge Cube)
+    type: Product
+  - url: https://www.beta.team/services/
+    name: Services
+    type: Services
+  - url: https://www.beta.team/careers/
+    name: Careers
+    type: Careers
+  - url: https://www.beta.team/contact/
+    name: Contact
+    type: Contact
+  - url: https://www.beta.team/manufacturing/
+    name: Manufacturing
+    type: Manufacturing
+  - url: https://www.faa.gov/newsroom
+    name: FAA Newsroom (Certification Tracking)
+    type: Regulator
+  - url: https://afwerx.com/divisions/prime/
+    name: AFWERX Agility Prime (Partner)
+    type: Partner
+  - url: https://www.linkedin.com/company/beta-technologies/
+    name: LinkedIn
+    type: LinkedIn
+  - url: https://x.com/BETA_Technology
+    name: X (Twitter)
+    type: X
+  - url: https://www.youtube.com/@BETATechnologies
+    name: YouTube
+    type: YouTube
+  - url: https://www.instagram.com/beta.technologies/
+    name: Instagram
+    type: Instagram
+  - url: https://www.beta.team/terms-of-use/
+    name: Terms of Use
+    type: TermsOfService
+  - url: https://www.beta.team/privacy-policy/
+    name: Privacy Policy
+    type: PrivacyPolicy
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
