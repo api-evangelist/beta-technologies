@@ -35,6 +35,8 @@ tags:
   - Sustainable Aviation
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/beta-technologies-domain-security.yml
   - url: https://www.beta.team/
     name: BETA Technologies Website
     type: Website
