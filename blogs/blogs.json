@@ -2,17 +2,17 @@
   "repo": "beta-technologies",
   "feeds": [
     {
-      "source": "https://www.beta.team/stories",
+      "source": "https://beta.team/stories/rss.xml",
       "feed_url": "https://beta.team/stories/rss.xml",
       "title": "",
-      "saved": 2,
-      "method": "discovered"
+      "saved": 0,
+      "method": "feed"
     },
     {
       "source": "https://www.beta.team/news/",
       "error": "HTTPError"
     }
   ],
-  "fetched": "2026-06-27T12:03:07Z",
-  "post_count": 2
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 10
 }
