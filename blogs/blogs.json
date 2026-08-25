@@ -10,9 +10,12 @@
     },
     {
       "source": "https://www.beta.team/news/",
-      "error": "HTTPError"
+      "feed_url": "https://beta.team/stories/rss.xml",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
     }
   ],
-  "fetched": "2026-08-15T12:22:01Z",
+  "fetched": "2026-08-22T20:20:02Z",
   "post_count": 19
 }
