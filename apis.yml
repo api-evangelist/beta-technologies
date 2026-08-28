@@ -14,6 +14,17 @@ description: >-
   the U.S. Air Force and U.S. Army (via AFWERX Agility Prime), Air New Zealand,
   Bristow, Surf Air Mobility, and other early operators; BETA was selected for
   seven of the eight FAA eVTOL Integration Pilot Program initiatives.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
